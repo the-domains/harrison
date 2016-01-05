@@ -1,6 +1,6 @@
 name: harrison
 favicon: null
-layout_spectrum: 0.11110660014674067
+layout_spectrum: 1
 typography_spectrum: 0.17752077989280224
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.8676904945168644
+  brandStrength: 0.8125
   lightness: 0.08903975877910852
   saturation: 0.17911232332699
   rhythmicContrast: 0.8592210453934968
